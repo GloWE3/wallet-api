@@ -38,6 +38,6 @@
     "@ledgerhq/wallet-api-core": "workspace:*",
     "@ledgerhq/wallet-api-server": "workspace:*",
     "rxjs": "^7.8.1",
-    "ws": "^8.16.0"
+    "ws": "^8.17.1"
   }
 }
